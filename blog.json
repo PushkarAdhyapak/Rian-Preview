@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "imgSrc":"./InsertImages/blog3.png",
+        "title":"blog_1_title",
+        "htmlpath":"blog_1_file_path"
+    },
+    {
+        "id": 2,
+        "imgSrc":"./InsertImages/blogpost2.png",
+        "title":"blog_2_title",
+        "htmlpath":"blog_2_file_path"
+    },
+    {
+        "id": 3,
+        "imgSrc":"./InsertImages/blogpost3.png",
+        "title":"blog_3_title",
+        "htmlpath":"blog_3_file_path"
+    }
+]
